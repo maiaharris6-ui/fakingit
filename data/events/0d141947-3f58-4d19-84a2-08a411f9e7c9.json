@@ -1,0 +1,41 @@
+{
+  "audiovisual_files": {
+    "6c03623d-5ccf-4ce0-b65d-0be57bb40a9d": {
+      "label": "SYLVÈRE ULTIMATUM",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=CfQoG3plySY",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Ultimatum Montreal Urban Poetry Festival, organized by Alan Lord, was held from May 1st to 5th 1985, at the Foufounes Électriques. Ultimatum was a cutting-edge literary festival in Montreal's avant-underground scene. The 1985 Ultimatum Festival was followed by the series Les Mardis Ultimatum / Ultimatum Tuesdays held from September 23rd 1986 to May 5th 1987, and Ultimatum II in September of 1987. This project transcribes and annotates a selection of eighteen (18) reel-to-reel performance recordings from Ultimatum I."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "SYLVÈRE ULTIMATUM May1985",
+  "av_file_order": [
+    "6c03623d-5ccf-4ce0-b65d-0be57bb40a9d"
+  ],
+  "created_at": "2026-06-15T19:38:06.407Z",
+  "created_by": "maiaharris6-ui",
+  "updated_at": "2026-06-15T19:38:06.407Z",
+  "updated_by": "maiaharris6-ui"
+}
